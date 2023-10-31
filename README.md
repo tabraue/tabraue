@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Diana
-I am passionate about programming and dedicated to continuous self-improvement. Step by step is my philosophy for personal and professional growth. I believe in perseverance and the power of learning.
+I am passionate about programming and dedicated to continuous self-improvement.
 
 # 👩‍💻 Philosophy
-I firmly believe that perseverance is the key to achieving any goal. Every small step contributes to the larger journey of self-improvement.
+ Step by step is my philosophy for personal and professional growth. I firmly believe that perseverance is the key to achieving any goal. Every small step contributes to this journey.
 
 # 🚀 Skills 
 I am diving deep into the world of programming, exploring various languages and technologies to broaden my skill set. Theese are few:
