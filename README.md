@@ -7,7 +7,7 @@ I am passionate about programming and dedicated to continuous self-improvement.
 # 🚀 Skills 
 I am diving deep into the world of programming, exploring various languages and technologies to broaden my skill set. Theese are few:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,mysql,tailwind&theme=light)](https://skillicons.dev)
 
 # 📫 How to Reach Me
 Feel free to reach out to me at **dianatabraue@gmail.com**. I am always open to engaging in discussions, sharing knowledge, and exploring new opportunities.
