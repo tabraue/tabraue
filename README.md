@@ -8,9 +8,10 @@ I am passionate about programming and dedicated to continuous self-improvement.
 I am diving deep into the world of programming, exploring various languages and technologies to broaden my skill set. Theese are few:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,mysql,tailwind,figma&theme=light)](https://skillicons.dev)
-[](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fstripe&psig=AOvVaw1GHM5I6jnKGmZkKYESsh5v&ust=1709809973932000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCdltHA34QDFQAAAAAdAAAAABAE)
+![stripe](https://github.com/tabraue/tabraue/assets/127108444/5c0efcd1-eb0c-4179-a4ef-64dcea9e813e)
 
 # 📫 How to Reach Me
+
 Feel free to reach out to me at **dianatabraue@gmail.com**. I am always open to engaging in discussions, sharing knowledge, and exploring new opportunities.
 
 <!---
