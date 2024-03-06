@@ -8,7 +8,8 @@ I am passionate about programming and dedicated to continuous self-improvement.
 I am diving deep into the world of programming, exploring various languages and technologies to broaden my skill set. Theese are few:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,mysql,tailwind,figma&theme=light)](https://skillicons.dev)
-![stripe](https://github.com/tabraue/tabraue/assets/127108444/5c0efcd1-eb0c-4179-a4ef-64dcea9e813e)
+![stripe](https://github.com/tabraue/tabraue/assets/127108444/b62b0895-b1e6-4182-97f1-edc33badb943)
+
 
 # 📫 How to Reach Me
 
