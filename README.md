@@ -13,7 +13,9 @@ I am diving deep into the world of programming, exploring various languages and 
 ![stripe](https://github.com/tabraue/tabraue/assets/127108444/b62b0895-b1e6-4182-97f1-edc33badb943)
 
 <hr/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabraue&show_icons=true&theme=synthwave)
+
 <hr/>
 
 # 📫 How to Reach Me
