@@ -14,7 +14,8 @@ I am diving deep into the world of programming, exploring various languages and 
 
 <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabraue&show_icons=true&theme=synthwave)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabraue&show_icons=true&theme=synthwave)   |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabraue&layout=compact&theme=synthwave) | 
+| ------------- | ------------- |
 
 <hr/>
 
