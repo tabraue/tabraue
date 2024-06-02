@@ -7,7 +7,7 @@ I am passionate about programming and dedicated to continuous self-improvement.
 # 🚀 Skills 
 I am diving deep into the world of programming, exploring various languages and technologies to broaden my skill set. Theese are few:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,mysql,tailwind,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,vue,mongodb,mysql,tailwind,figma&theme=light)](https://skillicons.dev)
 
 ### Payment infraestructure for the internet
 ![stripe](https://github.com/tabraue/tabraue/assets/127108444/b62b0895-b1e6-4182-97f1-edc33badb943)
