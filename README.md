@@ -3,29 +3,36 @@
 </p>
 
 # 👋 Hi, I'm Diana
-I am passionate about programming and dedicated to continuous self-improvement.
+Full Stack Engineer based in the Canary Islands. I transitioned from 12 years
+in hospitality into software — and I haven't looked back.
 
 Step by step is my philosophy for personal and professional growth. I firmly believe that perseverance is the key to achieving any goal. Every small step contributes to this journey.
 
 # 🚀 Tech I work with 
-I am diving deep into the world of programming, exploring various languages and technologies to broaden my skill set. These are few:
+I am diving deep into the world of programming, exploring various languages and technologies to broaden my skill set. These are a few:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,vue,prisma,mongodb,mysql,tailwind,figma&theme=light" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,vue,mongodb,mysql,tailwind,figma&theme=light)](https://skillicons.dev)
+<p align="center">Also work with <strong>Stripe</strong> for payment integrations.</p>
 
-#### Payment infrastructure for the internet
-![stripe](https://github.com/tabraue/tabraue/assets/127108444/b62b0895-b1e6-4182-97f1-edc33badb943)
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabraue&layout=compact&theme=synthwave" />
+</p>
 
 <!--
-<hr/>
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabraue&show_icons=true&theme=synthwave)   |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabraue&layout=compact&theme=synthwave) | 
-| ------------- | ------------- |
+
 <hr/> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabraue&show_icons=true&theme=synthwave)
 -->
 
-# 📫 Contact
-📧 **dianatabraue@gmail.com**
-
-I'm motivated, curious, and genuinely enjoy what I do.
+# 📫 Let's connect
+- 📧 [dianatabraue@gmail.com](mailto:dianatabraue@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
+- 🌍 Based in the Canary Islands, open to remote opportunities
 
 <p align="center">
   <img src="./assets/footer-wave.svg" alt="Wave footer" />
