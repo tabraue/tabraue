@@ -31,7 +31,7 @@ I am diving deep into the world of programming, exploring various languages and 
 
 # 📫 Let's connect
 - 📧 [dianatabraue@gmail.com](mailto:dianatabraue@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
+- 💼 [LinkedIn](www.linkedin.com/in/dianatabraue)
 - 🌍 Based in the Canary Islands, open to remote opportunities
 
 <p align="center">
